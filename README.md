@@ -1,4 +1,4 @@
 # kodok
 a kodok repository
 
-1st - test :D
+1st - test ***
