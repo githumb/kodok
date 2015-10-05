@@ -1,4 +1,4 @@
 # kodok
-a kodok repository
+a kodok
 
 1st - test ***
